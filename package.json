@@ -1,0 +1,13 @@
+{
+  "name": "ImportarCookiesFirefox",
+  "main": "Import.js",
+  "scripts": {
+    "start": "node Import.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "sqlite3": "*"
+  }
+}
